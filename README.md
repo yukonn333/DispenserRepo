@@ -1,4 +1,5 @@
 SmartRation
+
 Descrição do Projeto:
 O SmartRation é um sistema desenvolvido em Python com foco na automação e controle da alimentação de animais domésticos. O sistema permite cadastrar horários de alimentação, controlar quantidade de ração e visualizar históricos de dispensação.
 
@@ -14,8 +15,7 @@ Bibliotecas necessárias instaladas
 Instalação
 
 Clone o repositório:
-
-git clone https://github.com/SEU-USUARIO/SmartRation.git
+https://github.com/yukonn333/DispenserRepo
 
 Instale as dependências:
 
